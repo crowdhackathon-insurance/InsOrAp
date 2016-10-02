@@ -1,0 +1,57 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.insorama.insoramapp.FragmentEmergencyCalls">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Κλήση βοήθειας"
+        android:layout_gravity="center"
+        android:layout_marginBottom="90dp"
+        android:textSize="20sp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Κληση 166"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:id="@+id/emergency_calls_ambulance" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="κληση 100"
+        android:layout_gravity="center"
+        android:id="@+id/emergency_calls_police"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:textSize="20sp"
+        android:layout_marginBottom="150dp"
+        android:text="Κληση ασφαλιστικής"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="κληση ασφαλιστικής"
+        android:id="@+id/emergency_calls_insurance_call"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="75dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Καλέστε με (ασφαλιστική)"
+        android:id="@+id/emergency_calls_call_me"
+        android:layout_gravity="center|bottom"
+        android:layout_marginBottom="30dp"/>
+
+
+
+</FrameLayout>

@@ -1,0 +1,83 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <!-- Customize Styles Thanasis -->
+
+    <!-- Layer shape with stroke -->
+    <style name="LayoutStyleTranparent">
+        <item name="android:background">@drawable/buttons_layout_transparent_stroke</item>
+    </style>
+    <!-- Layout Style with round corners stroke -->
+    <style name="LayoutStyleRounded">
+        <item name="android:background">@drawable/layout_rounded_corners</item>
+    </style>
+    <!-- Layout Style -->
+    <style name="LayoutListItemStyle">
+        <item name="android:background">@drawable/item_of_list_layout_selector</item>
+    </style>
+    <!-- Layer shape with stroke -->
+    <style name="BasicLayerStyle">
+        <item name="android:background">@drawable/rounded_corners_with_stroke_line</item>
+    </style>
+    <!-- Button BASIC-->
+    <style name="ButtonStyle_Basic">
+        <item name="android:background">@drawable/buynow_basic_button_selector</item>
+    </style>
+    <!-- Button GOLDEN-->
+    <style name="ButtonStyle_RundedGolden">
+        <item name="android:background">@drawable/buynow_golden_button_selector</item>
+    </style>
+    <!-- Button Personal Video Now-->
+    <style name="ButtonStyle_Personal">
+        <item name="android:background">@drawable/personal_video_now_selector</item>
+    </style>
+    <!-- Buttons Layout Style -->
+    <style name="ButtonsStyle_Layout">
+        <item name="android:background">@drawable/buttons_layout_red_stroke</item>
+    </style>
+    <!-- Buttons Style -->
+    <style name="ButtonStyle_Gen">
+        <item name="android:background">@drawable/button_layout_selector</item>
+    </style>
+    <!-- Buttons Layout Style -->
+    <style name="ButtonStyle_Next">
+        <item name="android:background">@drawable/next_button_layout_selector</item>
+    </style>
+    <!-- Buttons Layout Style -->
+    <style name="ButtonStyle_NextFragment">
+        <item name="android:background">@drawable/next_fragm_button_selector</item>
+    </style>
+
+    <!-- TextView style with Rounded cornered, background and stroke Green Color line-->
+    <style name="TextViewStyle_WithGreenStroke">
+        <item name="android:background">@drawable/textview_with_green_stroke</item>
+    </style>
+
+    <!-- EditText style with Rounded cornered, background and stroke Green Color line-->
+    <style name="EditTextStyle_GreenStroke">
+        <item name="android:background">@drawable/edittext_green_stroke_line</item>
+    </style>
+    <!-- Style Rounded Corners-->
+    <style name="Style_RundedCorners">
+        <item name="android:background">@drawable/rounded_corners</item>
+    </style>
+    <!-- Style for Labels Item-->
+    <style name="StyleForLabels">
+        <item name="android:background">@drawable/label_style_gray</item>
+    </style>
+</resources>

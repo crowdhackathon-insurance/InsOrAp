@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionTimeOut" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="CommandTimeOut" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="DBServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LAPTOP-FG9G1TUE\SQLExpress2016</Value>
+    </Setting>
+    <Setting Name="MainThreadTimeOut" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
+    <Setting Name="EmailAddress4100" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">insorap+100@gmail.com</Value>
+    </Setting>
+    <Setting Name="EmailAddress4166" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">insorap+166@gmail.com</Value>
+    </Setting>
+    <Setting Name="EmailAddress4Pragm" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">insorap+pragm@gmail.com</Value>
+    </Setting>
+    <Setting Name="EmailAddress4XXX" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">insorap+xxx@gmail.com</Value>
+    </Setting>
+    <Setting Name="EmailAddressSender" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> insorap@gmail.com</Value>
+    </Setting>
+    <Setting Name="EmailServerPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="EmailSMTPServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="EmailServerSSL" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EmailTimeOut" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="EmailAddressOD_Boh" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">insorap+odbo@gmail.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

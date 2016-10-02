@@ -1,0 +1,143 @@
+﻿Installing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe assembly.
+Committing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe assembly.
+Installing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Installing service InsOrService...
+Creating EventLog source InsOrService in log Application...
+Rolling back assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Restoring event log to previous state for source InsOrService.
+Installing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Installing service InsOrService...
+Service InsOrService has been successfully installed.
+Creating EventLog source InsOrService in log Application...
+Committing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Uninstalling assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Removing EventLog source InsOrService.
+Service InsOrService is being removed from the system...
+Service InsOrService was successfully removed from the system.
+Installing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Installing service InsOrService...
+Service InsOrService has been successfully installed.
+Creating EventLog source InsOrService in log Application...
+Committing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Uninstalling assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Removing EventLog source InsOrService.
+Service InsOrService is being removed from the system...
+Service InsOrService was successfully removed from the system.
+Installing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Installing service InsOrService...
+Service InsOrService has been successfully installed.
+Creating EventLog source InsOrService in log Application...
+Committing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Uninstalling assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Removing EventLog source InsOrService.
+Service InsOrService is being removed from the system...
+Service InsOrService was successfully removed from the system.
+Attempt to stop service InsOrService.
+Installing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Installing service InsOrService...
+Service InsOrService has been successfully installed.
+Creating EventLog source InsOrService in log Application...
+Committing assembly 'D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Εγκατάσταση της συγκρότησης 'C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Οι παράμετροι που επηρεάζονται είναι οι:
+   logtoconsole = 
+   logfile = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Εγκατάσταση υπηρεσίας InsOrService...
+Η υπηρεσία InsOrService εγκαταστάθηκε με επιτυχία.
+Δημιουργία προέλευσης EventLog InsOrService μέσα στο αρχείο καταγραφής Application...
+Ολοκλήρωση της συγκρότησης 'C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Οι παράμετροι που επηρεάζονται είναι οι:
+   logtoconsole = 
+   logfile = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Κατάργηση εγκατάστασης της συγκρότησης 'C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Οι παράμετροι που επηρεάζονται είναι οι:
+   logtoconsole = 
+   logfile = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Κατάργηση της προέλευσης InsOrService του EventLog.
+Η υπηρεσία InsOrService καταργείται από το σύστημα...
+Η υπηρεσία InsOrService καταργήθηκε με επιτυχία από το σύστημα.
+Εγκατάσταση της συγκρότησης 'C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Οι παράμετροι που επηρεάζονται είναι οι:
+   logtoconsole = 
+   logfile = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+Εγκατάσταση υπηρεσίας InsOrService...
+Η υπηρεσία InsOrService εγκαταστάθηκε με επιτυχία.
+Δημιουργία προέλευσης EventLog InsOrService μέσα στο αρχείο καταγραφής Application...
+Ολοκλήρωση της συγκρότησης 'C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe'.
+Οι παράμετροι που επηρεάζονται είναι οι:
+   logtoconsole = 
+   logfile = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.InstallLog
+   assemblypath = C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe

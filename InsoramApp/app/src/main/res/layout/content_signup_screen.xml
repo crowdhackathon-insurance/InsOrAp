@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_signup_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:background="@color/colorPrimary"
+    tools:context="com.insorama.insoramapp.SignupScreen"
+    tools:showIn="@layout/activity_signup_screen">
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/signup_screen_key_number"
+        android:hint="Κλειδάριθμος"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="Αριθμός Πελάτη"
+        android:id="@+id/signup_screen_client_id"
+        android:layout_below="@+id/signup_screen_key_number"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:minHeight="62dp"
+        android:layout_marginBottom="20dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="back"
+            android:id="@+id/signup_screen_back"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:minHeight="55dp"
+            android:minWidth="120dp"
+            style="@style/ButtonStyle_Gen"
+            android:textColor="@drawable/text_color_skyblue_selector"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="15dp"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+        </LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SIGN UP"
+            android:id="@+id/signup_screen_signup"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:minHeight="55dp"
+            android:minWidth="120dp"
+            style="@style/ButtonStyle_Next"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@drawable/text_color_terms_user_selector"
+            android:layout_alignParentEnd="false"
+            android:layout_marginRight="15dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,311 @@
+﻿2016-10-01 20:10:07: Start Service
+2016-10-01 20:10:07: Succesfull Open Connection With Database
+2016-10-01 20:10:07: Start Procees Get_SYMVAN
+2016-10-01 20:10:07: Succesfully Load New Events 
+2016-10-01 20:10:07: Start Process Event_ID: 1 And Type: 1
+2016-10-01 20:10:07: Process Event_ID: 1 And Type: 1, Updating status to 1
+2016-10-01 20:10:07: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 20:10:10: Process Event_ID: 1 And Type: 1, Send Email to 100
+2016-10-01 20:10:20: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp KLHSH_166
+2016-10-01 20:10:22: Process Event_ID: 1 And Type: 1, Send Email to 166
+2016-10-01 20:10:32: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp KLHSH_OD_BOH8EIA
+2016-10-01 20:10:35: Process Event_ID: 1 And Type: 1, Send Email to Odiki Boh8eia
+2016-10-01 20:10:45: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:10:47: Process Event_ID: 1 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 20:10:57: Process Event_ID: 1 And Type: 1, Updating status to 2
+2016-10-01 20:10:57: Process Event_ID: 1 And Type: 1, Updating staus to 3
+2016-10-01 20:10:57: End Process Event_ID: 1 And Type: 1
+2016-10-01 20:10:57: Start Process Event_ID: 1 And Type: 4
+2016-10-01 20:10:57: Process Event_ID: 1 And Type: 4, Updating status to 1
+2016-10-01 20:10:57: Process Event_ID: 1 And Type: 4, Assign an Expert
+2016-10-01 20:10:57: Process Event_ID: 1 And Type: 4, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:10:59: Process Event_ID: 1 And Type: 4, Send Email to Pragmatognomona
+2016-10-01 20:11:09: Process Event_ID: 1 And Type: 4, Updating status to 2
+2016-10-01 20:11:09: Process Event_ID: 1 And Type: 4, Updating staus to 3
+2016-10-01 20:11:09: End Process Event_ID: 1 And Type: 4
+2016-10-01 20:11:09: Start Process Event_ID: 2 And Type: 2
+2016-10-01 20:11:09: Process Event_ID: 2 And Type: 2, Updating status to 1
+2016-10-01 20:11:09: Process Event_ID: 2 And Type: 2, Assign an Expert
+2016-10-01 20:11:09: Process Event_ID: 2 And Type: 2, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:11:10: Process Event_ID: 2 And Type: 2, Send Email to Pragmatognomona
+2016-10-01 20:11:20: Process Event_ID: 2 And Type: 2, Updating status to 2
+2016-10-01 20:11:20: Process Event_ID: 2 And Type: 2, Updating staus to 3
+2016-10-01 20:11:20: End Process Event_ID: 2 And Type: 2
+2016-10-01 20:11:20: Start Process Event_ID: 3 And Type: 3
+2016-10-01 20:11:20: Process Event_ID: 3 And Type: 3, Updating status to 1
+2016-10-01 20:11:20: Process Event_ID: 3 And Type: 3, Assign an Expert
+2016-10-01 20:11:20: Process Event_ID: 3 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:11:22: Process Event_ID: 3 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 20:11:32: Process Event_ID: 3 And Type: 3, Updating status to 2
+2016-10-01 20:11:32: Process Event_ID: 3 And Type: 3, Updating staus to 3
+2016-10-01 20:11:32: End Process Event_ID: 3 And Type: 3
+2016-10-01 20:11:32: Start Process Event_ID: 4 And Type: 3
+2016-10-01 20:11:32: Process Event_ID: 4 And Type: 3, Updating status to 1
+2016-10-01 20:11:32: Process Event_ID: 4 And Type: 3, Assign an Expert
+2016-10-01 20:11:32: Process Event_ID: 4 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:11:34: Process Event_ID: 4 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 20:11:44: Process Event_ID: 4 And Type: 3, Updating status to 2
+2016-10-01 20:11:44: Process Event_ID: 4 And Type: 3, Updating staus to 3
+2016-10-01 20:11:44: End Process Event_ID: 4 And Type: 3
+2016-10-01 20:11:44: Start Process Event_ID: 5 And Type: 4
+2016-10-01 20:11:44: Process Event_ID: 5 And Type: 4, Updating status to 1
+2016-10-01 20:11:44: Process Event_ID: 5 And Type: 4, Assign an Expert
+2016-10-01 20:11:44: Process Event_ID: 5 And Type: 4, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:11:46: Process Event_ID: 5 And Type: 4, Send Email to Pragmatognomona
+2016-10-01 20:11:56: Process Event_ID: 5 And Type: 4, Updating status to 2
+2016-10-01 20:11:56: Process Event_ID: 5 And Type: 4, Updating staus to 3
+2016-10-01 20:11:56: End Process Event_ID: 5 And Type: 4
+2016-10-01 20:11:56: Start Process Event_ID: 6 And Type: 2
+2016-10-01 20:11:56: Process Event_ID: 6 And Type: 2, Updating status to 1
+2016-10-01 20:11:56: Process Event_ID: 6 And Type: 2, Assign an Expert
+2016-10-01 20:11:56: Process Event_ID: 6 And Type: 2, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:11:58: Process Event_ID: 6 And Type: 2, Send Email to Pragmatognomona
+2016-10-01 20:12:08: Process Event_ID: 6 And Type: 2, Updating status to 2
+2016-10-01 20:12:08: Process Event_ID: 6 And Type: 2, Updating staus to 3
+2016-10-01 20:12:08: End Process Event_ID: 6 And Type: 2
+2016-10-01 20:12:08: Start Process Event_ID: 7 And Type: 3
+2016-10-01 20:12:08: Process Event_ID: 7 And Type: 3, Updating status to 1
+2016-10-01 20:12:08: Process Event_ID: 7 And Type: 3, Assign an Expert
+2016-10-01 20:12:08: Process Event_ID: 7 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:12:10: Process Event_ID: 7 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 20:12:20: Process Event_ID: 7 And Type: 3, Updating status to 2
+2016-10-01 20:12:20: Process Event_ID: 7 And Type: 3, Updating staus to 3
+2016-10-01 20:12:20: End Process Event_ID: 7 And Type: 3
+2016-10-01 20:12:20: Start Process Event_ID: 8 And Type: 3
+2016-10-01 20:12:20: Process Event_ID: 8 And Type: 3, Updating status to 1
+2016-10-01 20:12:20: Process Event_ID: 8 And Type: 3, Assign an Expert
+2016-10-01 20:12:20: Process Event_ID: 8 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 20:12:22: Process Event_ID: 8 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 20:12:29: Error Get_SYMVAN with Error: Το νήμα ματαιώθηκε.
+2016-10-01 20:12:29: Stop Service
+2016-10-01 22:03:45: Start Service
+2016-10-01 22:03:45: Succesfull Open Connection With Database
+2016-10-01 22:03:45: Start Procees Get_SYMVAN
+2016-10-01 22:03:45: Succesfully Load New Events 
+2016-10-01 22:03:45: Start Process Event_ID: 1 And Type: 1
+2016-10-01 22:03:45: Process Event_ID: 1 And Type: 1, Updating status to 1
+2016-10-01 22:03:45: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:03:48: Process Event_ID: 1 And Type: 1, Send Email to 100
+2016-10-01 22:03:58: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp KLHSH_166
+2016-10-01 22:04:00: Process Event_ID: 1 And Type: 1, Send Email to 166
+2016-10-01 22:04:10: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp KLHSH_OD_BOH8EIA
+2016-10-01 22:04:12: Process Event_ID: 1 And Type: 1, Send Email to Odiki Boh8eia
+2016-10-01 22:04:22: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:04:24: Process Event_ID: 1 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:04:34: Process Event_ID: 1 And Type: 1, Updating status to 2
+2016-10-01 22:04:34: Process Event_ID: 1 And Type: 1, Updating staus to 3
+2016-10-01 22:04:34: End Process Event_ID: 1 And Type: 1
+2016-10-01 22:04:34: Start Process Event_ID: 1 And Type: 4
+2016-10-01 22:04:34: Process Event_ID: 1 And Type: 4, Updating status to 1
+2016-10-01 22:04:34: Process Event_ID: 1 And Type: 4, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:04:36: Process Event_ID: 1 And Type: 4, Send Email to Pragmatognomona
+2016-10-01 22:04:46: Process Event_ID: 1 And Type: 4, Updating status to 2
+2016-10-01 22:04:46: Process Event_ID: 1 And Type: 4, Updating staus to 3
+2016-10-01 22:04:46: End Process Event_ID: 1 And Type: 4
+2016-10-01 22:04:46: Start Process Event_ID: 2 And Type: 2
+2016-10-01 22:04:46: Process Event_ID: 2 And Type: 2, Updating status to 1
+2016-10-01 22:04:46: Process Event_ID: 2 And Type: 2, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:04:48: Process Event_ID: 2 And Type: 2, Send Email to Pragmatognomona
+2016-10-01 22:04:58: Process Event_ID: 2 And Type: 2, Updating status to 2
+2016-10-01 22:04:58: Process Event_ID: 2 And Type: 2, Updating staus to 3
+2016-10-01 22:04:58: End Process Event_ID: 2 And Type: 2
+2016-10-01 22:04:58: Start Process Event_ID: 2 And Type: 1
+2016-10-01 22:04:58: Process Event_ID: 2 And Type: 1, Updating status to 1
+2016-10-01 22:04:58: Process Event_ID: 2 And Type: 1, Update Symvan Set TimeStamp KLHSH_166
+2016-10-01 22:04:59: Process Event_ID: 2 And Type: 1, Send Email to 166
+2016-10-01 22:05:10: Process Event_ID: 2 And Type: 1, Update Symvan Set TimeStamp KLHSH_OD_BOH8EIA
+2016-10-01 22:05:11: Process Event_ID: 2 And Type: 1, Send Email to Odiki Boh8eia
+2016-10-01 22:05:22: Process Event_ID: 2 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:05:24: Process Event_ID: 2 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:05:34: Process Event_ID: 2 And Type: 1, Updating status to 2
+2016-10-01 22:05:34: Process Event_ID: 2 And Type: 1, Updating staus to 3
+2016-10-01 22:05:34: End Process Event_ID: 2 And Type: 1
+2016-10-01 22:05:34: Start Process Event_ID: 3 And Type: 1
+2016-10-01 22:05:34: Process Event_ID: 3 And Type: 1, Updating status to 1
+2016-10-01 22:05:34: Process Event_ID: 3 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:05:36: Process Event_ID: 3 And Type: 1, Send Email to 100
+2016-10-01 22:05:46: Process Event_ID: 3 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:05:50: Process Event_ID: 3 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:06:00: Process Event_ID: 3 And Type: 1, Updating status to 2
+2016-10-01 22:06:00: Process Event_ID: 3 And Type: 1, Updating staus to 3
+2016-10-01 22:06:00: End Process Event_ID: 3 And Type: 1
+2016-10-01 22:06:00: Start Process Event_ID: 3 And Type: 3
+2016-10-01 22:06:00: Process Event_ID: 3 And Type: 3, Updating status to 1
+2016-10-01 22:06:00: Process Event_ID: 3 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:06:02: Process Event_ID: 3 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 22:06:12: Process Event_ID: 3 And Type: 3, Updating status to 2
+2016-10-01 22:06:12: Process Event_ID: 3 And Type: 3, Updating staus to 3
+2016-10-01 22:06:12: End Process Event_ID: 3 And Type: 3
+2016-10-01 22:06:12: Start Process Event_ID: 4 And Type: 3
+2016-10-01 22:06:12: Process Event_ID: 4 And Type: 3, Updating status to 1
+2016-10-01 22:06:12: Process Event_ID: 4 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:06:14: Process Event_ID: 4 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 22:06:24: Process Event_ID: 4 And Type: 3, Updating status to 2
+2016-10-01 22:06:24: Process Event_ID: 4 And Type: 3, Updating staus to 3
+2016-10-01 22:06:24: End Process Event_ID: 4 And Type: 3
+2016-10-01 22:06:24: Start Process Event_ID: 4 And Type: 1
+2016-10-01 22:06:24: Process Event_ID: 4 And Type: 1, Updating status to 1
+2016-10-01 22:06:24: Process Event_ID: 4 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:06:26: Process Event_ID: 4 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:06:36: Process Event_ID: 4 And Type: 1, Updating status to 2
+2016-10-01 22:06:36: Process Event_ID: 4 And Type: 1, Updating staus to 3
+2016-10-01 22:06:36: End Process Event_ID: 4 And Type: 1
+2016-10-01 22:06:36: Start Process Event_ID: 5 And Type: 1
+2016-10-01 22:06:36: Process Event_ID: 5 And Type: 1, Updating status to 1
+2016-10-01 22:06:36: Process Event_ID: 5 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:06:39: Process Event_ID: 5 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:06:49: Process Event_ID: 5 And Type: 1, Updating status to 2
+2016-10-01 22:06:49: Process Event_ID: 5 And Type: 1, Updating staus to 3
+2016-10-01 22:06:49: End Process Event_ID: 5 And Type: 1
+2016-10-01 22:06:49: Start Process Event_ID: 5 And Type: 4
+2016-10-01 22:06:49: Process Event_ID: 5 And Type: 4, Updating status to 1
+2016-10-01 22:06:49: Process Event_ID: 5 And Type: 4, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:06:50: Process Event_ID: 5 And Type: 4, Send Email to Pragmatognomona
+2016-10-01 22:07:00: Process Event_ID: 5 And Type: 4, Updating status to 2
+2016-10-01 22:07:00: Process Event_ID: 5 And Type: 4, Updating staus to 3
+2016-10-01 22:07:00: End Process Event_ID: 5 And Type: 4
+2016-10-01 22:07:00: Start Process Event_ID: 6 And Type: 2
+2016-10-01 22:07:00: Process Event_ID: 6 And Type: 2, Updating status to 1
+2016-10-01 22:07:00: Process Event_ID: 6 And Type: 2, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:07:02: Process Event_ID: 6 And Type: 2, Send Email to Pragmatognomona
+2016-10-01 22:07:12: Process Event_ID: 6 And Type: 2, Updating status to 2
+2016-10-01 22:07:12: Process Event_ID: 6 And Type: 2, Updating staus to 3
+2016-10-01 22:07:12: End Process Event_ID: 6 And Type: 2
+2016-10-01 22:07:12: Start Process Event_ID: 7 And Type: 3
+2016-10-01 22:07:12: Process Event_ID: 7 And Type: 3, Updating status to 1
+2016-10-01 22:07:12: Process Event_ID: 7 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:07:14: Process Event_ID: 7 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 22:07:24: Process Event_ID: 7 And Type: 3, Updating status to 2
+2016-10-01 22:07:24: Process Event_ID: 7 And Type: 3, Updating staus to 3
+2016-10-01 22:07:24: End Process Event_ID: 7 And Type: 3
+2016-10-01 22:07:24: Start Process Event_ID: 7 And Type: 1
+2016-10-01 22:07:24: Process Event_ID: 7 And Type: 1, Updating status to 1
+2016-10-01 22:07:24: Process Event_ID: 7 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:07:26: Process Event_ID: 7 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:07:36: Process Event_ID: 7 And Type: 1, Updating status to 2
+2016-10-01 22:07:36: Process Event_ID: 7 And Type: 1, Updating staus to 3
+2016-10-01 22:07:36: End Process Event_ID: 7 And Type: 1
+2016-10-01 22:07:36: Start Process Event_ID: 8 And Type: 1
+2016-10-01 22:07:36: Process Event_ID: 8 And Type: 1, Updating status to 1
+2016-10-01 22:07:36: Process Event_ID: 8 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:07:38: Process Event_ID: 8 And Type: 1, Send Email to 100
+2016-10-01 22:07:48: Process Event_ID: 8 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:07:51: Process Event_ID: 8 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:08:01: Process Event_ID: 8 And Type: 1, Updating status to 2
+2016-10-01 22:08:01: Process Event_ID: 8 And Type: 1, Updating staus to 3
+2016-10-01 22:08:01: End Process Event_ID: 8 And Type: 1
+2016-10-01 22:08:01: Start Process Event_ID: 8 And Type: 3
+2016-10-01 22:08:01: Process Event_ID: 8 And Type: 3, Updating status to 1
+2016-10-01 22:08:01: Process Event_ID: 8 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:08:03: Process Event_ID: 8 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 22:08:13: Process Event_ID: 8 And Type: 3, Updating status to 2
+2016-10-01 22:08:13: Process Event_ID: 8 And Type: 3, Updating staus to 3
+2016-10-01 22:08:13: End Process Event_ID: 8 And Type: 3
+2016-10-01 22:08:13: Start Process Event_ID: 9 And Type: 3
+2016-10-01 22:08:13: Process Event_ID: 9 And Type: 3, Updating status to 1
+2016-10-01 22:08:13: Process Event_ID: 9 And Type: 3, Assign an Expert
+2016-10-01 22:08:13: Process Event_ID: 9 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:08:15: Process Event_ID: 9 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 22:08:25: Process Event_ID: 9 And Type: 3, Updating status to 2
+2016-10-01 22:08:25: Process Event_ID: 9 And Type: 3, Updating staus to 3
+2016-10-01 22:08:25: End Process Event_ID: 9 And Type: 3
+2016-10-01 22:08:25: Start Process Event_ID: 10 And Type: 3
+2016-10-01 22:08:25: Process Event_ID: 10 And Type: 3, Updating status to 1
+2016-10-01 22:08:25: Process Event_ID: 10 And Type: 3, Assign an Expert
+2016-10-01 22:08:25: Process Event_ID: 10 And Type: 3, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:08:27: Process Event_ID: 10 And Type: 3, Send Email to Pragmatognomona
+2016-10-01 22:08:37: Process Event_ID: 10 And Type: 3, Updating status to 2
+2016-10-01 22:08:37: Process Event_ID: 10 And Type: 3, Updating staus to 3
+2016-10-01 22:08:37: End Process Event_ID: 10 And Type: 3
+2016-10-01 22:08:37: Start Process Event_ID: 11 And Type: 2
+2016-10-01 22:08:37: Process Event_ID: 11 And Type: 2, Updating status to 1
+2016-10-01 22:08:37: Process Event_ID: 11 And Type: 2, Assign an Expert
+2016-10-01 22:08:37: Process Event_ID: 11 And Type: 2, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:08:39: Process Event_ID: 11 And Type: 2, Send Email to Pragmatognomona
+2016-10-01 22:08:49: Process Event_ID: 11 And Type: 2, Updating status to 2
+2016-10-01 22:08:49: Process Event_ID: 11 And Type: 2, Updating staus to 3
+2016-10-01 22:08:49: End Process Event_ID: 11 And Type: 2
+2016-10-01 22:08:49: Start Process Event_ID: 11 And Type: 1
+2016-10-01 22:08:49: Process Event_ID: 11 And Type: 1, Updating status to 1
+2016-10-01 22:08:49: Process Event_ID: 11 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:08:51: Process Event_ID: 11 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:09:01: Process Event_ID: 11 And Type: 1, Updating status to 2
+2016-10-01 22:09:01: Process Event_ID: 11 And Type: 1, Updating staus to 3
+2016-10-01 22:09:01: End Process Event_ID: 11 And Type: 1
+2016-10-01 22:09:01: Start Process Event_ID: 12 And Type: 1
+2016-10-01 22:09:01: Process Event_ID: 12 And Type: 1, Updating status to 1
+2016-10-01 22:09:01: Process Event_ID: 12 And Type: 1, Update Symvan Set TimeStamp KLHSH_OD_BOH8EIA
+2016-10-01 22:09:03: Process Event_ID: 12 And Type: 1, Send Email to Odiki Boh8eia
+2016-10-01 22:09:13: Process Event_ID: 12 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:09:15: Process Event_ID: 12 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:09:25: Process Event_ID: 12 And Type: 1, Updating status to 2
+2016-10-01 22:09:25: Process Event_ID: 12 And Type: 1, Updating staus to 3
+2016-10-01 22:09:25: End Process Event_ID: 12 And Type: 1
+2016-10-01 22:09:25: Start Process Event_ID: 13 And Type: 1
+2016-10-01 22:09:25: Process Event_ID: 13 And Type: 1, Updating status to 1
+2016-10-01 22:09:26: Process Event_ID: 13 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:09:28: Process Event_ID: 13 And Type: 1, Send Email to 100
+2016-10-01 22:09:38: Process Event_ID: 13 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:09:40: Process Event_ID: 13 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:09:50: Process Event_ID: 13 And Type: 1, Updating status to 2
+2016-10-01 22:09:50: Process Event_ID: 13 And Type: 1, Updating staus to 3
+2016-10-01 22:09:50: End Process Event_ID: 13 And Type: 1
+2016-10-01 22:09:50: Start Process Event_ID: 14 And Type: 1
+2016-10-01 22:09:50: Process Event_ID: 14 And Type: 1, Updating status to 1
+2016-10-01 22:09:50: Process Event_ID: 14 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:09:52: Process Event_ID: 14 And Type: 1, Send Email to 100
+2016-10-01 22:10:02: Process Event_ID: 14 And Type: 1, Update Symvan Set TimeStamp KLHSH_OD_BOH8EIA
+2016-10-01 22:10:04: Process Event_ID: 14 And Type: 1, Send Email to Odiki Boh8eia
+2016-10-01 22:10:14: Process Event_ID: 14 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:10:16: Process Event_ID: 14 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:10:26: Process Event_ID: 14 And Type: 1, Updating status to 2
+2016-10-01 22:10:26: Process Event_ID: 14 And Type: 1, Updating staus to 3
+2016-10-01 22:10:26: End Process Event_ID: 14 And Type: 1
+2016-10-01 22:10:26: Start Process Event_ID: 15 And Type: 1
+2016-10-01 22:10:26: Process Event_ID: 15 And Type: 1, Updating status to 1
+2016-10-01 22:10:26: Process Event_ID: 15 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:10:28: Process Event_ID: 15 And Type: 1, Send Email to 100
+2016-10-01 22:10:38: Process Event_ID: 15 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:10:40: Process Event_ID: 15 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:10:50: Process Event_ID: 15 And Type: 1, Updating status to 2
+2016-10-01 22:10:50: Process Event_ID: 15 And Type: 1, Updating staus to 3
+2016-10-01 22:10:50: End Process Event_ID: 15 And Type: 1
+2016-10-01 22:10:50: Start Process Event_ID: 16 And Type: 1
+2016-10-01 22:10:50: Process Event_ID: 16 And Type: 1, Updating status to 1
+2016-10-01 22:10:50: Process Event_ID: 16 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:10:52: Process Event_ID: 16 And Type: 1, Send Email to 100
+2016-10-01 22:11:02: Process Event_ID: 16 And Type: 1, Update Symvan Set TimeStamp KLHSH_OD_BOH8EIA
+2016-10-01 22:11:04: Process Event_ID: 16 And Type: 1, Send Email to Odiki Boh8eia
+2016-10-01 22:11:14: Process Event_ID: 16 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:11:16: Process Event_ID: 16 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:11:26: Process Event_ID: 16 And Type: 1, Updating status to 2
+2016-10-01 22:11:26: Process Event_ID: 16 And Type: 1, Updating staus to 3
+2016-10-01 22:11:26: End Process Event_ID: 16 And Type: 1
+2016-10-01 22:11:26: Start Process Event_ID: 17 And Type: 1
+2016-10-01 22:11:26: Process Event_ID: 17 And Type: 1, Updating status to 1
+2016-10-01 22:11:26: Process Event_ID: 17 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:11:28: Process Event_ID: 17 And Type: 1, Send Email to 100
+2016-10-01 22:11:38: Process Event_ID: 17 And Type: 1, Update Symvan Set TimeStamp KLHSH_166
+2016-10-01 22:11:40: Process Event_ID: 17 And Type: 1, Send Email to 166
+2016-10-01 22:11:50: Process Event_ID: 17 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:11:52: Process Event_ID: 17 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:12:02: Process Event_ID: 17 And Type: 1, Updating status to 2
+2016-10-01 22:12:02: Process Event_ID: 17 And Type: 1, Updating staus to 3
+2016-10-01 22:12:02: End Process Event_ID: 17 And Type: 1
+2016-10-01 22:12:02: Start Process Event_ID: 18 And Type: 1
+2016-10-01 22:12:02: Process Event_ID: 18 And Type: 1, Updating status to 1
+2016-10-01 22:12:02: Process Event_ID: 18 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-01 22:12:04: Process Event_ID: 18 And Type: 1, Send Email to 100
+2016-10-01 22:12:14: Process Event_ID: 18 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-01 22:12:16: Process Event_ID: 18 And Type: 1, Send Email to Pragmatognomona
+2016-10-01 22:12:26: Process Event_ID: 18 And Type: 1, Updating status to 2
+2016-10-01 22:12:26: Process Event_ID: 18 And Type: 1, Updating staus to 3
+2016-10-01 22:12:26: End Process Event_ID: 18 And Type: 1
+2016-10-01 22:12:26: Succesfully UPDATE New Events and sleep for: 60000
+2016-10-01 22:13:26: Start Procees Get_SYMVAN
+2016-10-01 22:13:26: Succesfully Load New Events 
+2016-10-01 22:13:26: Succesfully UPDATE New Events and sleep for: 60000
+2016-10-01 22:14:26: Start Procees Get_SYMVAN
+2016-10-01 22:14:26: Succesfully Load New Events 
+2016-10-01 22:14:26: Succesfully UPDATE New Events and sleep for: 60000
+2016-10-01 22:15:00: Stop Service

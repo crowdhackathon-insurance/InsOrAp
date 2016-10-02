@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">InsoramApp</string>
+    <string name="title_activity_accident">accident</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <!--Added by Thanasis-->
+    <string name="title_activity_start">StartActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_crystal_breakage_report">CrystalBreakageReport</string>
+    <string name="title_activity_theft_report">TheftReport</string>
+    <string name="title_activity_coverages">Coverages</string>
+
+    <string name="there_is_injured">Υπάρχει Τραυματίας</string>
+    <string name="roadside_assistance">Χρειάζεστε Οδική Βοήθεια</string>
+    <string name="statement_settings">Ρυθμίσεις</string>
+    <string name="statement_accident">Δήλωση Ατυχήματος</string>
+    <string name="statement_theft">Δήλωση Κλοπής</string>
+    <string name="statement_fire">Δήλωση Πυρκαϊάς</string>
+    <string name="statement_broken_crystals">Θραύση Κρυστάλλων</string>
+    <string name="label_press_record_mes">Αν είστε νέος χρήστης πατήστε : Εγγραφή</string>
+    <string name="str_notify_accident">Ανακοίνωση Περιστατικού</string>
+
+    <string name="select_car_prompt_label">Παρακαλώ Επιλέξτε Αυτοκίνητο</string>
+    <string name="shattering_prompt_label">Επιλέξτε Το Μέγεθος Καταστροφής</string>
+    <string name="partial_destroy">Μερικη Καταστροφη</string>
+    <string name="complete_destroy">Ολικη Καταστροφη</string>
+
+    <string name="front_crystal">Μπροστινο Παρπριζ</string>
+    <string name="back_crystal">Πισω Παρπριζ</string>
+    <string name="left_frond_crystal">Οδηγου</string>
+    <string name="right_front_crystal">Συνοδηγου</string>
+    <string name="left_back_crystal">Πισω Αριστερα</string>
+    <string name="right_back_crystal">Πισω Δεξια</string>
+
+    <string name="but_continue">Συνεχεια</string>
+    <string name="button_cancel">Ακυρωση</string>
+    <string name="button_back">Επιστροφη</string>
+    <string name="button_complete">Ολοκληρωση</string>
+    <string name="button_send">Αποστολη</string>
+    <string name="title_activity_fire_report">FireReport</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="label_friendly_settlement">Φιλικός Διακανονισμός</string>
+    <string name="label_accident_choices">Παρακαλώ Επιλέξτε</string>
+    <!-- end   -->
+
+</resources>

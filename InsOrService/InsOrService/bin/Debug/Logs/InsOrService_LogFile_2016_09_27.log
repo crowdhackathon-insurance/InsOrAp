@@ -1,0 +1,452 @@
+﻿2016-09-27 00:09:50: Start Service
+2016-09-27 00:10:17: Succesfull Open Connection With Database
+2016-09-27 00:19:40: Start Service
+2016-09-27 17:25:05: Start Service
+2016-09-27 17:27:39: Succesfull Open Connection With Database
+2016-09-27 17:28:16: Start Procees Get_SYMVAN
+2016-09-27 17:30:18: Start Service
+2016-09-27 17:30:18: Succesfull Open Connection With Database
+2016-09-27 17:31:09: Start Procees Get_SYMVAN
+2016-09-27 17:33:07: Start Service
+2016-09-27 17:33:07: Succesfull Open Connection With Database
+2016-09-27 17:33:07: Start Procees Get_SYMVAN
+2016-09-27 17:38:11: Start Service
+2016-09-27 17:38:11: Succesfull Open Connection With Database
+2016-09-27 17:38:11: Start Procees Get_SYMVAN
+2016-09-27 17:38:51: Start Service
+2016-09-27 17:38:52: Succesfull Open Connection With Database
+2016-09-27 17:38:52: Start Procees Get_SYMVAN
+2016-09-27 17:41:20: Start Service
+2016-09-27 17:41:20: Succesfull Open Connection With Database
+2016-09-27 17:41:20: Start Procees Get_SYMVAN
+2016-09-27 17:41:33: Succesfully Load New Events
+2016-09-27 17:43:08: Start Process Event_ID: 1 And Type: 1
+2016-09-27 18:00:52: Start Service
+2016-09-27 18:00:52: Succesfull Open Connection With Database
+2016-09-27 18:00:52: Start Procees Get_SYMVAN
+2016-09-27 18:00:52: Succesfully Load New Events 
+2016-09-27 18:00:52: Start Process Event_ID: 1 And Type: 1
+2016-09-27 18:05:35: Start Service
+2016-09-27 18:05:35: Succesfull Open Connection With Database
+2016-09-27 18:05:35: Start Procees Get_SYMVAN
+2016-09-27 18:05:35: Succesfully Load New Events 
+2016-09-27 18:05:35: Start Process Event_ID: 1 And Type: 1
+2016-09-27 18:27:05: Start Service
+2016-09-27 18:27:06: Succesfull Open Connection With Database
+2016-09-27 18:27:06: Start Procees Get_SYMVAN
+2016-09-27 18:28:13: Start Service
+2016-09-27 18:28:17: Succesfull Open Connection With Database
+2016-09-27 18:28:17: Start Procees Get_SYMVAN
+2016-09-27 18:28:17: Succesfully Load New Events 
+2016-09-27 18:28:17: Start Process Event_ID: 13 And Type: 1
+2016-09-27 19:17:39: Start Service
+2016-09-27 19:17:39: Succesfull Open Connection With Database
+2016-09-27 19:17:39: Start Procees Get_SYMVAN
+2016-09-27 19:17:39: Succesfully Load New Events 
+2016-09-27 19:17:39: Start Process Event_ID: 1 And Type: 1
+2016-09-27 19:18:28: Process Event_ID: 1 And Type: 1, Updating staus to 1
+2016-09-27 19:18:46: Process Event_ID: 1 And Type: 1, Assign an Expert
+2016-09-27 19:22:31: Process Event_ID: 1 And Type: 1, Send Email to 100
+2016-09-27 19:23:34: Process Event_ID: 1 And Type: 1, Send Email to 166
+2016-09-27 19:24:05: Process Event_ID: 1 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 19:24:44: Process Event_ID: 1 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 19:24:46: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 19:49:33: Start Service
+2016-09-27 19:49:33: Succesfull Open Connection With Database
+2016-09-27 19:49:33: Start Procees Get_SYMVAN
+2016-09-27 19:49:33: Succesfully Load New Events 
+2016-09-27 19:49:33: Start Process Event_ID: 1 And Type: 1
+2016-09-27 19:50:21: Process Event_ID: 1 And Type: 1, Updating staus to 1
+2016-09-27 19:50:59: Process Event_ID: 1 And Type: 1, Send Email to 100
+2016-09-27 19:51:29: Process Event_ID: 1 And Type: 1, Send Email to 166
+2016-09-27 19:52:11: Process Event_ID: 1 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 19:52:38: Process Event_ID: 1 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 19:53:46: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 19:56:20: Start Service
+2016-09-27 19:56:20: Succesfull Open Connection With Database
+2016-09-27 19:56:20: Start Procees Get_SYMVAN
+2016-09-27 19:56:20: Succesfully Load New Events 
+2016-09-27 19:56:20: Start Process Event_ID: 1 And Type: 1
+2016-09-27 19:57:06: Process Event_ID: 1 And Type: 1, Send Email to 100
+2016-09-27 19:57:29: Process Event_ID: 1 And Type: 1, Send Email to 166
+2016-09-27 19:57:43: Process Event_ID: 1 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 19:58:08: Process Event_ID: 1 And Type: 1, Send Email to Pragmatognomona
+2016-09-27 19:58:33: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:00:33: Process Event_ID: 1 And Type: 1, Updating staus to 2
+2016-09-27 20:00:54: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:03:13: Start Service
+2016-09-27 20:03:13: Succesfull Open Connection With Database
+2016-09-27 20:03:13: Start Procees Get_SYMVAN
+2016-09-27 20:03:14: Succesfully Load New Events 
+2016-09-27 20:03:14: Start Process Event_ID: 1 And Type: 1
+2016-09-27 20:03:52: Process Event_ID: 1 And Type: 1, Updating status to 2
+2016-09-27 20:03:57: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:05:23: Start Service
+2016-09-27 20:05:27: Succesfull Open Connection With Database
+2016-09-27 20:05:27: Start Procees Get_SYMVAN
+2016-09-27 20:05:27: Succesfully Load New Events 
+2016-09-27 20:05:27: Start Process Event_ID: 1 And Type: 1
+2016-09-27 20:05:48: Process Event_ID: 1 And Type: 1, Updating status to 2
+2016-09-27 20:05:55: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:10:37: Start Service
+2016-09-27 20:10:37: Succesfull Open Connection With Database
+2016-09-27 20:10:37: Start Procees Get_SYMVAN
+2016-09-27 20:10:37: Succesfully Load New Events 
+2016-09-27 20:10:37: Start Process Event_ID: 1 And Type: 1
+2016-09-27 20:10:55: Process Event_ID: 1 And Type: 1, Updating status to 2
+2016-09-27 20:11:01: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:11:51: Process Event_ID: 1 And Type: 1, Updating staus to 3
+2016-09-27 20:12:27: End Process Event_ID: 1 And Type: 1
+2016-09-27 20:12:51: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:14:40: Succesfully Load New Events 
+2016-09-27 20:14:55: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:16:14: Succesfully Load New Events 
+2016-09-27 20:16:21: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:22:05: Start Service
+2016-09-27 20:22:05: Succesfull Open Connection With Database
+2016-09-27 20:22:05: Start Procees Get_SYMVAN
+2016-09-27 20:22:05: Succesfully Load New Events 
+2016-09-27 20:22:05: Start Process Event_ID: 1 And Type: 1
+2016-09-27 20:22:05: Process Event_ID: 1 And Type: 1, Updating staus to 1
+2016-09-27 20:22:05: Process Event_ID: 1 And Type: 1, Updating status to 2
+2016-09-27 20:22:05: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:22:05: Process Event_ID: 1 And Type: 1, Updating staus to 3
+2016-09-27 20:22:05: End Process Event_ID: 1 And Type: 1
+2016-09-27 20:22:05: Start Process Event_ID: 2 And Type: 1
+2016-09-27 20:22:05: Process Event_ID: 2 And Type: 1, Updating staus to 1
+2016-09-27 20:22:05: Process Event_ID: 2 And Type: 1, Assign an Expert
+2016-09-27 20:22:05: Process Event_ID: 2 And Type: 1, Send Email to 166
+2016-09-27 20:22:37: Process Event_ID: 2 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 20:23:09: Process Event_ID: 2 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:23:09: Process Event_ID: 2 And Type: 1, Updating status to 2
+2016-09-27 20:23:09: Process Event_ID: 2 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:23:09: Process Event_ID: 2 And Type: 1, Updating staus to 3
+2016-09-27 20:23:09: End Process Event_ID: 2 And Type: 1
+2016-09-27 20:23:09: Start Process Event_ID: 3 And Type: 1
+2016-09-27 20:23:09: Process Event_ID: 3 And Type: 1, Updating staus to 1
+2016-09-27 20:23:09: Process Event_ID: 3 And Type: 1, Assign an Expert
+2016-09-27 20:23:09: Process Event_ID: 3 And Type: 1, Send Email to 100
+2016-09-27 20:23:41: Process Event_ID: 3 And Type: 1, Send Email to Pragmatognomona
+2016-09-27 20:24:15: Process Event_ID: 3 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:24:15: Process Event_ID: 3 And Type: 1, Updating status to 2
+2016-09-27 20:24:15: Process Event_ID: 3 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:24:15: Process Event_ID: 3 And Type: 1, Updating staus to 3
+2016-09-27 20:24:15: End Process Event_ID: 3 And Type: 1
+2016-09-27 20:24:15: Start Process Event_ID: 4 And Type: 1
+2016-09-27 20:24:15: Process Event_ID: 4 And Type: 1, Updating staus to 1
+2016-09-27 20:24:15: Process Event_ID: 4 And Type: 1, Assign an Expert
+2016-09-27 20:24:15: Process Event_ID: 4 And Type: 1, Updating status to 2
+2016-09-27 20:24:15: Process Event_ID: 4 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:24:15: Process Event_ID: 4 And Type: 1, Updating staus to 3
+2016-09-27 20:24:15: End Process Event_ID: 4 And Type: 1
+2016-09-27 20:24:15: Start Process Event_ID: 5 And Type: 1
+2016-09-27 20:24:15: Process Event_ID: 5 And Type: 1, Updating staus to 1
+2016-09-27 20:24:15: Process Event_ID: 5 And Type: 1, Assign an Expert
+2016-09-27 20:24:15: Process Event_ID: 5 And Type: 1, Updating status to 2
+2016-09-27 20:24:15: Process Event_ID: 5 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:24:15: Process Event_ID: 5 And Type: 1, Updating staus to 3
+2016-09-27 20:24:15: End Process Event_ID: 5 And Type: 1
+2016-09-27 20:24:15: Start Process Event_ID: 7 And Type: 1
+2016-09-27 20:24:15: Process Event_ID: 7 And Type: 1, Updating staus to 1
+2016-09-27 20:24:15: Process Event_ID: 7 And Type: 1, Assign an Expert
+2016-09-27 20:24:15: Process Event_ID: 7 And Type: 1, Updating status to 2
+2016-09-27 20:24:15: Process Event_ID: 7 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:24:15: Process Event_ID: 7 And Type: 1, Updating staus to 3
+2016-09-27 20:24:15: End Process Event_ID: 7 And Type: 1
+2016-09-27 20:24:15: Start Process Event_ID: 8 And Type: 1
+2016-09-27 20:24:15: Process Event_ID: 8 And Type: 1, Updating staus to 1
+2016-09-27 20:24:15: Process Event_ID: 8 And Type: 1, Assign an Expert
+2016-09-27 20:24:15: Process Event_ID: 8 And Type: 1, Send Email to 100
+2016-09-27 20:24:47: Process Event_ID: 8 And Type: 1, Send Email to Pragmatognomona
+2016-09-27 20:25:19: Process Event_ID: 8 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:25:19: Process Event_ID: 8 And Type: 1, Updating status to 2
+2016-09-27 20:25:19: Process Event_ID: 8 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:25:19: Process Event_ID: 8 And Type: 1, Updating staus to 3
+2016-09-27 20:25:19: End Process Event_ID: 8 And Type: 1
+2016-09-27 20:25:19: Start Process Event_ID: 11 And Type: 1
+2016-09-27 20:25:19: Process Event_ID: 11 And Type: 1, Updating staus to 1
+2016-09-27 20:25:19: Process Event_ID: 11 And Type: 1, Assign an Expert
+2016-09-27 20:25:19: Process Event_ID: 11 And Type: 1, Updating status to 2
+2016-09-27 20:25:19: Process Event_ID: 11 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:25:19: Process Event_ID: 11 And Type: 1, Updating staus to 3
+2016-09-27 20:25:19: End Process Event_ID: 11 And Type: 1
+2016-09-27 20:25:19: Start Process Event_ID: 12 And Type: 1
+2016-09-27 20:25:19: Process Event_ID: 12 And Type: 1, Updating staus to 1
+2016-09-27 20:25:19: Process Event_ID: 12 And Type: 1, Assign an Expert
+2016-09-27 20:25:19: Process Event_ID: 12 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 20:25:52: Process Event_ID: 12 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:25:52: Process Event_ID: 12 And Type: 1, Updating status to 2
+2016-09-27 20:25:52: Process Event_ID: 12 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:25:52: Process Event_ID: 12 And Type: 1, Updating staus to 3
+2016-09-27 20:25:52: End Process Event_ID: 12 And Type: 1
+2016-09-27 20:25:52: Start Process Event_ID: 13 And Type: 1
+2016-09-27 20:25:52: Process Event_ID: 13 And Type: 1, Send Email to 100
+2016-09-27 20:26:24: Process Event_ID: 13 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:26:24: Process Event_ID: 13 And Type: 1, Updating status to 2
+2016-09-27 20:26:24: Process Event_ID: 13 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:26:24: Process Event_ID: 13 And Type: 1, Updating staus to 3
+2016-09-27 20:26:24: End Process Event_ID: 13 And Type: 1
+2016-09-27 20:26:24: Start Process Event_ID: 14 And Type: 1
+2016-09-27 20:26:24: Process Event_ID: 14 And Type: 1, Updating staus to 1
+2016-09-27 20:26:24: Process Event_ID: 14 And Type: 1, Assign an Expert
+2016-09-27 20:26:24: Process Event_ID: 14 And Type: 1, Send Email to 100
+2016-09-27 20:26:55: Process Event_ID: 14 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 20:27:27: Process Event_ID: 14 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:27:27: Process Event_ID: 14 And Type: 1, Updating status to 2
+2016-09-27 20:27:27: Process Event_ID: 14 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:27:27: Process Event_ID: 14 And Type: 1, Updating staus to 3
+2016-09-27 20:27:27: End Process Event_ID: 14 And Type: 1
+2016-09-27 20:27:27: Start Process Event_ID: 15 And Type: 1
+2016-09-27 20:27:27: Process Event_ID: 15 And Type: 1, Updating staus to 1
+2016-09-27 20:27:27: Process Event_ID: 15 And Type: 1, Assign an Expert
+2016-09-27 20:27:27: Process Event_ID: 15 And Type: 1, Send Email to 100
+2016-09-27 20:27:59: Process Event_ID: 15 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:27:59: Process Event_ID: 15 And Type: 1, Updating status to 2
+2016-09-27 20:27:59: Process Event_ID: 15 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:27:59: Process Event_ID: 15 And Type: 1, Updating staus to 3
+2016-09-27 20:27:59: End Process Event_ID: 15 And Type: 1
+2016-09-27 20:27:59: Start Process Event_ID: 16 And Type: 1
+2016-09-27 20:27:59: Process Event_ID: 16 And Type: 1, Updating staus to 1
+2016-09-27 20:27:59: Process Event_ID: 16 And Type: 1, Assign an Expert
+2016-09-27 20:27:59: Process Event_ID: 16 And Type: 1, Send Email to 100
+2016-09-27 20:28:31: Process Event_ID: 16 And Type: 1, Send Email to Odiki Boh8eia
+2016-09-27 20:29:03: Process Event_ID: 16 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:29:03: Process Event_ID: 16 And Type: 1, Updating status to 2
+2016-09-27 20:29:03: Process Event_ID: 16 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:29:03: Process Event_ID: 16 And Type: 1, Updating staus to 3
+2016-09-27 20:29:03: End Process Event_ID: 16 And Type: 1
+2016-09-27 20:29:03: Start Process Event_ID: 17 And Type: 1
+2016-09-27 20:29:03: Process Event_ID: 17 And Type: 1, Updating staus to 1
+2016-09-27 20:29:03: Process Event_ID: 17 And Type: 1, Assign an Expert
+2016-09-27 20:29:03: Process Event_ID: 17 And Type: 1, Send Email to 100
+2016-09-27 20:29:34: Process Event_ID: 17 And Type: 1, Send Email to 166
+2016-09-27 20:30:06: Process Event_ID: 17 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:30:06: Process Event_ID: 17 And Type: 1, Updating status to 2
+2016-09-27 20:30:06: Process Event_ID: 17 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:30:06: Process Event_ID: 17 And Type: 1, Updating staus to 3
+2016-09-27 20:30:06: End Process Event_ID: 17 And Type: 1
+2016-09-27 20:30:06: Start Process Event_ID: 18 And Type: 1
+2016-09-27 20:30:06: Process Event_ID: 18 And Type: 1, Updating staus to 1
+2016-09-27 20:30:06: Process Event_ID: 18 And Type: 1, Assign an Expert
+2016-09-27 20:30:06: Process Event_ID: 18 And Type: 1, Send Email to 100
+2016-09-27 20:30:38: Process Event_ID: 18 And Type: 1, Send Email to Pragmatognomona
+2016-09-27 20:31:10: Process Event_ID: 18 And Type: 1, Update Symvan Set TimeStamp Klisis
+2016-09-27 20:31:10: Process Event_ID: 18 And Type: 1, Updating status to 2
+2016-09-27 20:31:10: Process Event_ID: 18 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 20:31:10: Process Event_ID: 18 And Type: 1, Updating staus to 3
+2016-09-27 20:31:10: End Process Event_ID: 18 And Type: 1
+2016-09-27 20:31:10: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:32:24: Succesfully Load New Events 
+2016-09-27 20:32:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:36:30: Start Service
+2016-09-27 20:36:30: Succesfull Open Connection With Database
+2016-09-27 20:36:30: Start Procees Get_SYMVAN
+2016-09-27 20:36:30: Succesfully Load New Events 
+2016-09-27 20:36:30: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:37:30: Succesfully Load New Events 
+2016-09-27 20:37:30: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:38:30: Succesfully Load New Events 
+2016-09-27 20:38:30: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:39:30: Succesfully Load New Events 
+2016-09-27 20:39:30: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:40:30: Succesfully Load New Events 
+2016-09-27 20:40:30: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:41:30: Succesfully Load New Events 
+2016-09-27 20:41:30: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:42:30: Succesfully Load New Events 
+2016-09-27 20:42:30: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:47:24: Start Service
+2016-09-27 20:47:24: Succesfull Open Connection With Database
+2016-09-27 20:47:24: Start Procees Get_SYMVAN
+2016-09-27 20:47:24: Succesfully Load New Events 
+2016-09-27 20:47:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:48:24: Succesfully Load New Events 
+2016-09-27 20:48:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:49:24: Succesfully Load New Events 
+2016-09-27 20:49:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:50:24: Succesfully Load New Events 
+2016-09-27 20:50:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:51:24: Succesfully Load New Events 
+2016-09-27 20:51:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:52:24: Succesfully Load New Events 
+2016-09-27 20:52:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:53:24: Succesfully Load New Events 
+2016-09-27 20:53:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:54:24: Succesfully Load New Events 
+2016-09-27 20:54:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:55:24: Succesfully Load New Events 
+2016-09-27 20:55:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:56:24: Succesfully Load New Events 
+2016-09-27 20:56:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:57:24: Succesfully Load New Events 
+2016-09-27 20:57:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:58:24: Succesfully Load New Events 
+2016-09-27 20:58:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 20:59:24: Succesfully Load New Events 
+2016-09-27 20:59:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:00:24: Succesfully Load New Events 
+2016-09-27 21:00:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:01:24: Succesfully Load New Events 
+2016-09-27 21:01:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:02:24: Succesfully Load New Events 
+2016-09-27 21:02:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:03:24: Succesfully Load New Events 
+2016-09-27 21:03:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:04:24: Succesfully Load New Events 
+2016-09-27 21:04:24: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:07:38: Start Service
+2016-09-27 21:07:38: Succesfull Open Connection With Database
+2016-09-27 21:07:38: Start Procees Get_SYMVAN
+2016-09-27 21:07:38: Succesfully Load New Events 
+2016-09-27 21:07:38: Succesfully UPDATE New Events and sleep for: 15000
+2016-09-27 21:07:53: Succesfully Load New Events 
+2016-09-27 21:07:53: Succesfully UPDATE New Events and sleep for: 15000
+2016-09-27 21:09:03: Start Service
+2016-09-27 21:09:03: Succesfull Open Connection With Database
+2016-09-27 21:09:03: Start Procees Get_SYMVAN
+2016-09-27 21:09:03: Succesfully Load New Events 
+2016-09-27 21:09:03: Succesfully UPDATE New Events and sleep for: 10000
+2016-09-27 21:09:13: Succesfully Load New Events 
+2016-09-27 21:09:13: Succesfully UPDATE New Events and sleep for: 10000
+2016-09-27 21:09:23: Succesfully Load New Events 
+2016-09-27 21:09:23: Succesfully UPDATE New Events and sleep for: 10000
+2016-09-27 21:14:30: Start Service
+2016-09-27 21:14:30: Succesfull Open Connection With Database
+2016-09-27 21:16:19: Start Service
+2016-09-27 21:16:19: Succesfull Open Connection With Database
+2016-09-27 21:18:43: Start Service
+2016-09-27 21:18:43: Succesfull Open Connection With Database
+2016-09-27 21:19:50: Start Procees Get_SYMVAN
+2016-09-27 21:20:42: Start Service
+2016-09-27 21:20:42: Succesfull Open Connection With Database
+2016-09-27 21:21:57: Start Procees Get_SYMVAN
+2016-09-27 21:22:14: Succesfully Load New Events 
+2016-09-27 21:22:28: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:23:58: Start Procees Get_SYMVAN
+2016-09-27 21:24:00: Start Procees Get_SYMVAN
+2016-09-27 21:24:00: Succesfully Load New Events 
+2016-09-27 21:24:00: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:24:02: Succesfully Load New Events 
+2016-09-27 21:24:02: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:25:01: Start Procees Get_SYMVAN
+2016-09-27 21:25:01: Succesfully Load New Events 
+2016-09-27 21:25:01: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:26:03: Start Procees Get_SYMVAN
+2016-09-27 21:26:03: Succesfully Load New Events 
+2016-09-27 21:26:03: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:28:06: Start Service
+2016-09-27 21:28:06: Succesfull Open Connection With Database
+2016-09-27 21:29:06: Start Procees Get_SYMVAN
+2016-09-27 21:29:06: Succesfully Load New Events 
+2016-09-27 21:29:06: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:30:06: Start Procees Get_SYMVAN
+2016-09-27 21:30:06: Succesfully Load New Events 
+2016-09-27 21:30:06: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:30:15: Stop Service
+2016-09-27 21:31:38: Start Service
+2016-09-27 21:31:38: Succesfull Open Connection With Database
+2016-09-27 21:31:47: Stop Service
+2016-09-27 21:31:56: Start Service
+2016-09-27 21:31:56: Succesfull Open Connection With Database
+2016-09-27 21:32:56: Start Procees Get_SYMVAN
+2016-09-27 21:32:56: Succesfully Load New Events 
+2016-09-27 21:32:56: Start Process Event_ID: 1 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 1 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 1 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 1 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 1 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 1 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 2 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 2 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 2 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 2 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 2 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 2 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 3 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 3 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 3 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 3 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 3 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 3 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 4 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 4 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 4 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 4 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 4 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 4 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 5 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 5 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 5 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 5 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 5 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 5 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 7 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 7 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 7 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 7 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 7 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 7 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 8 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 8 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 8 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 8 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 8 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 8 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 11 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 11 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 11 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 11 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 11 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 11 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 12 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 12 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 12 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 12 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 12 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 12 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 13 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 13 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 13 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 13 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 13 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 13 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 14 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 14 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 14 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 14 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 14 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 14 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 15 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 15 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 15 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 15 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 15 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 15 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 16 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 16 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 16 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 16 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 16 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 16 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 17 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 17 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 17 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 17 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 17 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 17 And Type: 1
+2016-09-27 21:32:56: Start Process Event_ID: 18 And Type: 1
+2016-09-27 21:32:56: Process Event_ID: 18 And Type: 1, Updating staus to 1
+2016-09-27 21:32:56: Process Event_ID: 18 And Type: 1, Updating status to 2
+2016-09-27 21:32:56: Process Event_ID: 18 And Type: 1, Update Symvan Set TimeStamp Oloklirosis
+2016-09-27 21:32:56: Process Event_ID: 18 And Type: 1, Updating staus to 3
+2016-09-27 21:32:56: End Process Event_ID: 18 And Type: 1
+2016-09-27 21:32:56: Succesfully UPDATE New Events and sleep for: 60000
+2016-09-27 21:33:00: Stop Service
+2016-09-27 21:33:43: Start Service
+2016-09-27 21:33:43: Succesfull Open Connection With Database
+2016-09-27 21:34:43: Start Procees Get_SYMVAN
+2016-09-27 21:34:43: Succesfully Load New Events 
+2016-09-27 21:34:43: Start Process Event_ID: 1 And Type: 1
+2016-09-27 21:34:43: Process Event_ID: 1 And Type: 1, Updating staus to 1
+2016-09-27 21:34:43: Process Event_ID: 1 And Type: 1, Send Email to 166
+2016-09-27 21:34:50: Stop Service

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_f1138efac208f1c767cf8d9a2b40df74afdc8f98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_242be5823f55ebf713c507287ba3e02dccc3682b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_582bb18214bb12c191e192f8c716d83256849323\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f3c4c868950fdb13cb26704dbba6d0c1daf00676\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_f40d436dcb12f937384b4bdb2e5c5530b789a246\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_8b0fb9928e5bf5146f694471e2eccc85c6e2839c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_18f9edc75f662ed78fb62ab98f65c1937cc312f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_337c3d1fc3e33cda260a42143b448e501d5b7cec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9d3debced1829cc2015c4f61ff3a427a2862096c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_66525deb726482c3ab80a0d0de9131169c87b1c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5fe6d6989b87a6ad466effe836773b616bba995c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a5b36b10bbd399cdd6c7888432c684ff8b8230d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7b07445e5d81a4d6b6557f4d4586d6217a202ba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4372c3161640177a26ffea4a1ff23772c2a7fa51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_31a71fae43399e40710e6cf911c87a0f49d940d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_3d1afb2f0511af318df0f4241caaea0847105f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_406992c08727b8095ae78b40b993cfe04f9f1085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d20a4e3d875ce3f9132614a98d6d652aee513175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_0d7eb9b91d70a3e4466e3c7a83fa47cf364f901a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="feb57328f7a85434f7ea6b51da110bdc040825d2">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6d16527fa4716962d92dc0d6deb05d6521ea677f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_883d4ba11342097e50d7e86b28f6a835e56f5a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f5fa7056f593dfef0c0f0fd1708296a850702736\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3559285bf887be7c10038f6c611b31fa2576bb7a">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_75f800def90f3fe90e1604328a36964b38e1b4f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fredygr2\Desktop\InsoramApp\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="C:\Users\fredygr2\Desktop\InsoramApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-2.5.8-jar-with-dependencies_92a194d25b95e67d910cfd3e6be574c1102c12d0\classes.dex" />
+    </item>
+
+</items>

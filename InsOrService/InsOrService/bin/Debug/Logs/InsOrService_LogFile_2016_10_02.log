@@ -1,0 +1,36 @@
+﻿2016-10-02 12:21:53: Start Service
+2016-10-02 12:21:53: Succesfull Open Connection With Database
+2016-10-02 12:21:53: Start Procees Get_SYMVAN
+2016-10-02 12:21:54: Succesfully Load New Events 
+2016-10-02 12:21:54: Start Process Event_ID: 19 And Type: 1
+2016-10-02 12:21:54: Process Event_ID: 19 And Type: 1, Updating status to 1
+2016-10-02 12:21:54: Process Event_ID: 19 And Type: 1, Assign an Expert
+2016-10-02 12:21:54: Process Event_ID: 19 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-02 12:21:56: Process Event_ID: 19 And Type: 1, Send Email to Pragmatognomona
+2016-10-02 12:22:06: Process Event_ID: 19 And Type: 1, Updating status to 2
+2016-10-02 12:22:06: Process Event_ID: 19 And Type: 1, Updating staus to 3
+2016-10-02 12:22:06: End Process Event_ID: 19 And Type: 1
+2016-10-02 12:22:06: Succesfully UPDATE New Events and sleep for: 60000
+2016-10-02 12:23:06: Start Procees Get_SYMVAN
+2016-10-02 12:23:07: Succesfully Load New Events 
+2016-10-02 12:23:07: Succesfully UPDATE New Events and sleep for: 60000
+2016-10-02 12:24:07: Start Procees Get_SYMVAN
+2016-10-02 12:24:07: Succesfully Load New Events 
+2016-10-02 12:24:07: Succesfully UPDATE New Events and sleep for: 60000
+2016-10-02 12:24:09: Stop Service
+2016-10-02 12:52:16: Start Service
+2016-10-02 12:52:16: Succesfull Open Connection With Database
+2016-10-02 12:52:16: Start Procees Get_SYMVAN
+2016-10-02 12:52:17: Succesfully Load New Events 
+2016-10-02 12:52:17: Start Process Event_ID: 20 And Type: 1
+2016-10-02 12:52:17: Process Event_ID: 20 And Type: 1, Updating status to 1
+2016-10-02 12:52:17: Process Event_ID: 20 And Type: 1, Assign an Expert
+2016-10-02 12:52:17: Process Event_ID: 20 And Type: 1, Update Symvan Set TimeStamp KLHSH_100
+2016-10-02 12:52:20: Process Event_ID: 20 And Type: 1, Send Email to 100
+2016-10-02 12:52:30: Process Event_ID: 20 And Type: 1, Update Symvan Set TimeStamp KLHSH_PRAGM
+2016-10-02 12:52:32: Process Event_ID: 20 And Type: 1, Send Email to Pragmatognomona
+2016-10-02 12:52:42: Process Event_ID: 20 And Type: 1, Updating status to 2
+2016-10-02 12:52:42: Process Event_ID: 20 And Type: 1, Updating staus to 3
+2016-10-02 12:52:42: End Process Event_ID: 20 And Type: 1
+2016-10-02 12:52:42: Succesfully UPDATE New Events and sleep for: 60000
+2016-10-02 12:53:38: Stop Service

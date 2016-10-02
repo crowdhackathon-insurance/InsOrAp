@@ -1,0 +1,44 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.insorama.insoramapp.FragmentChooseCar">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Spinner
+            android:layout_width="160dp"
+            android:layout_height="45dp"
+            android:id="@+id/choose_car_spinner"
+            android:layout_marginBottom="37dp"
+            android:background="@drawable/spinner_backg_selector"
+            android:gravity="fill_vertical|center_horizontal"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:minHeight="30dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ΕΠΟΜΕΝΟ"
+            style="@style/ButtonStyle_Next"
+            android:layout_gravity="bottom|end"
+            android:id="@+id/choose_car_next" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ΑΚΥΡΩΣΗ"
+            style="@style/ButtonStyle_Next"
+            android:layout_gravity="bottom|start"
+            android:id="@+id/choose_car_cancel" />
+    </FrameLayout>
+
+
+
+
+</FrameLayout>

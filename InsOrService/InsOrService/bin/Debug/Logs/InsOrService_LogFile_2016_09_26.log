@@ -1,0 +1,27 @@
+﻿2016-09-26 23:17:41: Start Service
+2016-09-26 23:17:47: Succesfull Open Connection With Database
+2016-09-26 23:17:47: Start Procees Get_SYMVAN
+2016-09-26 23:17:47: Error Get_SYMVAN with Error: Object reference not set to an instance of an object.
+2016-09-26 23:17:47: E N D
+2016-09-26 23:55:12: Start Service
+2016-09-26 23:55:20: Succesfull Open Connection With Database
+2016-09-26 23:55:20: Start Procees Get_SYMVAN
+2016-09-26 23:55:20: Error Get_SYMVAN with Error: Invalid column name ''.
+Invalid column name ''.
+Invalid column name ''.
+Invalid column name ''.
+Invalid column name ''.
+Invalid column name ''.
+2016-09-26 23:55:20: E N D
+2016-09-26 23:56:01: Stop Service
+2016-09-26 23:57:30: Start Service
+2016-09-26 23:57:30: Succesfull Open Connection With Database
+2016-09-26 23:57:30: Start Procees Get_SYMVAN
+2016-09-26 23:57:30: Error Get_SYMVAN with Error: Invalid column name ''.
+Invalid column name ''.
+Invalid column name ''.
+Invalid column name ''.
+Invalid column name ''.
+Invalid column name ''.
+2016-09-26 23:57:30: E N D
+2016-09-27 00:00:09: Stop Service

@@ -1,0 +1,11 @@
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\bin\Debug\InsOrApp.exe.config
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\bin\Debug\InsOrApp.exe
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\bin\Debug\InsOrApp.pdb
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\bin\Debug\InsOrApp.xml
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\obj\Debug\InsOrApp.FrmInsuranceAdmin.resources
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\obj\Debug\InsOrApp.FrmSplash.resources
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\obj\Debug\InsOrApp.Resources.resources
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\obj\Debug\InsOrApp.vbproj.GenerateResource.Cache
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\obj\Debug\InsOrApp.exe
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\obj\Debug\InsOrApp.xml
+D:\MyCode\InsOrApp\DeskTop_Application\InsOrApp\InsOrApp\obj\Debug\InsOrApp.pdb

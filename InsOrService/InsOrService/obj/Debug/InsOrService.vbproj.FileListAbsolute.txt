@@ -1,0 +1,29 @@
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\bin\Debug\InsOrService.exe.config
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\obj\Debug\InsOrService.Resources.resources
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\obj\Debug\InsOrService.vbproj.GenerateResource.Cache
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\obj\Debug\InsOrService.xml
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\bin\Debug\InsOrService.pdb
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\bin\Debug\InsOrService.xml
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\obj\Debug\InsOrService.exe
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic( Windows Serivice )\InsOrService\InsOrService\obj\Debug\InsOrService.pdb
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe.config
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.exe
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.xml
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.pdb
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.pdb
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.xml
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.Resources.resources
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.vbproj.GenerateResource.Cache
+D:\MyCode\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.ProjectInstaller.resources
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe.config
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.exe
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.xml
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.pdb
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.exe
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.pdb
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\bin\Debug\InsOrService.xml
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.Resources.resources
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.ProjectInstaller.resources
+C:\Users\fredygr2\Documents\Visual Studio 2015\Projects\____CrawdHacathon\InsOrAppStick\Automatic_Windows_Serivice\InsOrService\InsOrService\obj\Debug\InsOrService.vbproj.GenerateResource.Cache

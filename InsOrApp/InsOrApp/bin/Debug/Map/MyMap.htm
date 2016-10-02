@@ -1,0 +1,195 @@
+<html>
+<Header></Header>
+<body bgcolor="#E6E6FA" >
+<div id="dvMap"  style="width: 800px; height: 460px"></div>
+<div id="Details" style="width: 800px; height: 120px;border-style:double">
+<p>
+Πελάτης: <Label id="Customer"></Label> - Αρ. Συμβ.: <Label id="Contract_id"></Label>
+</p>
+<p>
+Αρ. Οχήματος: <Label id="LicencePlate"></Label> - Τηλ.: <Label id="Phones"></Label>
+</p>
+<p>
+Σημείο Συμβάντος: <Label id="Address"></Label> - Ώρα Συμβάντος: <Label id="WRA"></Label> - Ολοκληρωμένο: <Label id="Status"></Label>
+</p>
+
+</div>
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCa65uHyVU39dAodleHT0erc46Tmin6pss">
+</script>
+                    
+            <script>
+    var map,
+               currentPositionMarker1,
+               //currentPositionMarker2,
+               mapCenter;
+    function SetStoixeia(CustomerName,ContractID,LicencePlate,Phones,Status,WRA){
+    	currentPositionMarker1.setMap(null);
+    	
+    	document.getElementById('Customer').innerHTML=CustomerName;
+    	document.getElementById('Contract_id').innerHTML=ContractID;
+    	document.getElementById('LicencePlate').innerHTML=LicencePlate;
+    	document.getElementById('Phones').innerHTML=Phones;
+    	document.getElementById('Status').innerHTML=Status;
+		document.getElementById('WRA').innerHTML=WRA;
+    	//while (document.getElementById('Address').firstChild) document.getElementById('Address').removeChild(el.firstChild);
+    	document.getElementById('Address').innerHTML="";
+    	
+    }
+    
+    function initializeMap() {
+        map = new google.maps.Map(document.getElementById('dvMap'), {
+            zoom: 15,
+            center: mapCenter,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+        //google.maps.event.addDomListener(window, 'resize', function () {
+        //    var center = map.getCenter();
+        //    map.setCenter(center);
+        //});
+        //// And aditionally you can need use "trigger" for real responsive
+        //google.maps.event.trigger(map, "resize");
+    }
+
+    function locError(error) {
+        // the current position could not be located
+        alert("The current position could not be found!");
+    }
+
+    function setCurrentPosition(Lat, Lng, CarNumber) {
+        currentPositionMarker1 = new google.maps.Marker({
+            map: map,
+            position: new google.maps.LatLng(Lat, Lng
+            ),
+            title: CarNumber
+        });
+        //currentPositionMarker2 = new google.maps.Marker({
+        //    map: map,
+        //    position: new google.maps.LatLng(Lat, Lng
+        //    ),
+        //    title: CarNumber
+        //});
+        //map.panTo(new google.maps.LatLng(Lat, Lng
+        //    ));
+    }
+
+    //function displayAndWatch(Lat, Lng, CarNumber) {
+    //    // set current position
+    //    setCurrentPosition(Lat, Lng, CarNumber);
+    //    // watch position
+    //    watchCurrentPosition(Lat, Lng);
+    // }
+
+    function watchCurrentPosition1(Lat, Lng) {
+        //var positionTimer = navigator.geolocation.watchPosition(
+        //    function (position) {
+        //        setCurrentPosition(Lat, Lng, CarNumber);
+        //        watchCurrentPosition(Lat, Lng)});
+        setMarkerPosition(Lat, Lng);
+    }
+
+    function watchCurrentPosition2(Lat, Lng, CarNumber) {
+        //var positionTimer = navigator.geolocation.watchPosition(
+        //    function (position) {
+        //setCurrentPosition(Lat, Lng, CarNumber);
+       // watchCurrentPosition(Lat, Lng);
+        //currentPositionMarker = new google.maps.Marker({
+        //    map: map,
+        //    position: new google.maps.LatLng(Lat, Lng
+        //    ),
+        //    title: CarNumber
+        //});
+        //mapCenter = new google.maps.LatLng(Lat, Lng)
+        //initializeMap();
+        //setCurrentPosition(Lat, Lng, CarNumber);
+        //setMarkerPosition(Lat, Lng);
+        //  );
+    }
+    
+    function setMarkerPosition(Lat1, Lng1, CarNumber, HomeLat, HomeLng) {
+        currentPositionMarker1.setMap(null);
+        //currentPositionMarker2.setMap(null);
+        currentPositionMarker1 = new google.maps.Marker({
+            map: map,
+            position: new google.maps.LatLng(Lat1, Lng1
+            ),
+            title: CarNumber
+        });
+        //currentPositionMarker2 = new google.maps.Marker({
+        //   map: map,
+        //    position: new google.maps.LatLng(HomeLat, HomeLng
+        //    ),
+        //    title: 'ΕΔΡΑ',
+        //    icon: 'EDRA.png'
+        //});
+        map.panTo(new google.maps.LatLng(Lat1, Lng1
+            ));
+        //map.panTo(new google.maps.LatLng(Lat, Lng
+        //    ));
+		var geocoder = new google.maps.Geocoder;
+  //var infowindow = new google.maps.InfoWindow;
+  //document.getElementById('Odos').innerHTML="Stergios1"
+  //var latlng = {lat: Lat1,lng: Lng1};
+  //document.getElementById('Odos').innerHTML="Stergios2"
+  var input = Lat1+','+Lng1;
+  var latlngStr = input.split(',', 2);
+  var latlng = {lat: parseFloat(latlngStr[0]), lng: parseFloat(latlngStr[1])};
+  
+  geocoder.geocode({'location': latlng}, function(results, status) {
+    if (status === 'OK') {
+      if (results[1]) {
+        //map.setZoom(11);
+        //var marker = new google.maps.Marker({
+        //  position: latlng,
+        //  map: map
+        //});
+        document.getElementById('Address').innerHTML=results[0].formatted_address// + results[1].formatted_address
+		//infowindow.setContent(results[1].formatted_address);
+        //infowindow.open(map, marker);
+      } else {
+        window.alert('No results found');
+      }
+    } else {
+      window.alert('Geocoder failed due to: ' + status+input);
+    }
+  });
+  }
+
+		//document.getElementById('Odos').innerHTML="Stergios"
+
+        //map.panTo(new google.maps.LatLng(Lat1, Lng1
+        //    ));
+        //currentPositionMarker.setPosition(new google.maps.LatLng(Lat, Lng)
+        //);
+        //currentPositionMarker.setTitle(CarNumber)
+        //currentPositionMarker1 = new google.maps.Marker({
+        //    map: map,
+        //    position: new google.maps.LatLng(HomeLat, HomeLng
+        //    ),
+        //    title: 'ΕΔΡΑ'
+        //});
+        //currentPositionMarker.setPosition(
+        //    new google.maps.LatLng(Lat, Lng)
+        //);
+        //map.setCenter(new google.maps.LatLng(Lat, Lng));
+        //map.center = mapCenter;
+        //map.panTo(Lat: Lat1, Lng: Lng1
+        //    ));
+    //}
+
+    function initLocationProcedure() {
+        //mapCenter = new google.maps.LatLng(37.9833333, 23.7333333)
+        initializeMap();
+        //displayAndWatch(Lat, Lng, CarNumber);
+        setCurrentPosition('', '', '');
+
+        //watchCurrentPosition1(Lat, Lng);
+        //if (navigator.geolocation) {
+        //    navigator.geolocation.getCurrentPosition(displayAndWatch(Lat, Lng, CarNumber), locError);
+        //} else {
+        //    alert("Your browser does not support the Geolocation API");
+        //}
+    }
+    google.maps.event.addDomListener(window, 'load', initLocationProcedure());
+    </script>
+</body>
+</html>
